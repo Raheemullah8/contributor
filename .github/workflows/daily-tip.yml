@@ -1,0 +1,56 @@
+name: Daily Tip Automation
+
+on:
+  schedule:
+    # Runs at 12:00 AM UTC every day
+    - cron: '0 0 * * *'
+  # Allow manual trigger for testing
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  daily-tip:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run daily tip script
+        run: npm start
+
+      - name: Check for changes
+        id: verify-changes
+        run: |
+          if git diff --quiet; then
+            echo "has-changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "has-changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Configure git user
+        if: steps.verify-changes.outputs.has-changes == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Commit changes
+        if: steps.verify-changes.outputs.has-changes == 'true'
+        run: |
+          git add daily-logs.md
+          git commit -m "docs: daily contribution update"
+
+      - name: Push changes to main
+        if: steps.verify-changes.outputs.has-changes == 'true'
+        run: git push origin main

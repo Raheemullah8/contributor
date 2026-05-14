@@ -1,0 +1,20 @@
+{
+  "name": "github-daily-automation",
+  "version": "1.0.0",
+  "description": "Daily automation tool that fetches tips and logs them to a markdown file",
+  "main": "daily-tip.js",
+  "scripts": {
+    "start": "node daily-tip.js"
+  },
+  "keywords": [
+    "github",
+    "automation",
+    "daily-tips",
+    "github-actions"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
