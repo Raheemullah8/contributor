@@ -1,4 +1,11 @@
 <details>
+<summary><strong>2026-05-17</strong> at <code>2026-05-17 03:59:04</code></summary>
+
+> Document your code. Unclear code wastes more time than it saves.
+
+</details>
+
+<details>
 <summary><strong>2026-05-16</strong> at <code>2026-05-16 03:39:45</code></summary>
 
 > Learn from your mistakes. Every bug is a teaching opportunity.
