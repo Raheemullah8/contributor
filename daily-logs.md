@@ -1,4 +1,11 @@
 <details>
+<summary><strong>2026-05-23</strong> at <code>2026-05-23 03:49:39</code></summary>
+
+> Use the right tool for the job. Avoid over-engineering simple solutions.
+
+</details>
+
+<details>
 <summary><strong>2026-05-22</strong> at <code>2026-05-22 04:10:49</code></summary>
 
 > Always write tests. Untested code is legacy code by default.
