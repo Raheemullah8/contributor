@@ -1,4 +1,11 @@
 <details>
+<summary><strong>2026-05-28</strong> at <code>2026-05-28 04:09:18</code></summary>
+
+> Refactor regularly. Technical debt compounds like financial debt.
+
+</details>
+
+<details>
 <summary><strong>2026-05-27</strong> at <code>2026-05-27 04:19:58</code></summary>
 
 > Always write tests. Untested code is legacy code by default.
