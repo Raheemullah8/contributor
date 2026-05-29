@@ -1,4 +1,11 @@
 <details>
+<summary><strong>2026-05-29</strong> at <code>2026-05-29 04:11:19</code></summary>
+
+> Document your code. Unclear code wastes more time than it saves.
+
+</details>
+
+<details>
 <summary><strong>2026-05-28</strong> at <code>2026-05-28 04:09:18</code></summary>
 
 > Refactor regularly. Technical debt compounds like financial debt.
