@@ -1,4 +1,11 @@
 <details>
+<summary><strong>2026-06-21</strong> at <code>2026-06-21 04:54:39</code></summary>
+
+> Document your code. Unclear code wastes more time than it saves.
+
+</details>
+
+<details>
 <summary><strong>2026-06-20</strong> at <code>2026-06-20 04:12:06</code></summary>
 
 > Code reviews catch bugs and improve team knowledge sharing.
