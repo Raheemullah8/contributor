@@ -1,4 +1,11 @@
 <details>
+<summary><strong>2026-08-03</strong> at <code>2026-08-03 03:30:42</code></summary>
+
+> Use the right tool for the job. Avoid over-engineering simple solutions.
+
+</details>
+
+<details>
 <summary><strong>2026-08-02</strong> at <code>2026-08-02 03:28:48</code></summary>
 
 > Keep functions small and focused on a single responsibility.
