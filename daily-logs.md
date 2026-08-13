@@ -1,4 +1,11 @@
 <details>
+<summary><strong>2026-08-13</strong> at <code>2026-08-13 02:24:32</code></summary>
+
+> Always write tests. Untested code is legacy code by default.
+
+</details>
+
+<details>
 <summary><strong>2026-08-12</strong> at <code>2026-08-12 02:23:04</code></summary>
 
 > Keep functions small and focused on a single responsibility.
