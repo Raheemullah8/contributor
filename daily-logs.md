@@ -1,4 +1,11 @@
 <details>
+<summary><strong>2026-08-27</strong> at <code>2026-08-27 08:36:27</code></summary>
+
+> Refactor regularly. Technical debt compounds like financial debt.
+
+</details>
+
+<details>
 <summary><strong>2026-08-26</strong> at <code>2026-08-26 01:41:08</code></summary>
 
 > Keep functions small and focused on a single responsibility.
