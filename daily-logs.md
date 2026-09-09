@@ -1,4 +1,11 @@
 <details>
+<summary><strong>2026-09-09</strong> at <code>2026-09-09 04:05:59</code></summary>
+
+> Always write tests. Untested code is legacy code by default.
+
+</details>
+
+<details>
 <summary><strong>2026-09-08</strong> at <code>2026-09-08 03:59:37</code></summary>
 
 > Use version control for everything. Branches are your friends.
