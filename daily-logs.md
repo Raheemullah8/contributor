@@ -1,4 +1,11 @@
 <details>
+<summary><strong>2026-09-27</strong> at <code>2026-09-27 04:44:51</code></summary>
+
+> Use the right tool for the job. Avoid over-engineering simple solutions.
+
+</details>
+
+<details>
 <summary><strong>2026-09-26</strong> at <code>2026-09-26 04:26:43</code></summary>
 
 > Refactor regularly. Technical debt compounds like financial debt.
