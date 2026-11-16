@@ -1,4 +1,11 @@
 <details>
+<summary><strong>2026-11-16</strong> at <code>2026-11-16 05:47:54</code></summary>
+
+> Always write tests. Untested code is legacy code by default.
+
+</details>
+
+<details>
 <summary><strong>2026-11-15</strong> at <code>2026-11-15 05:48:30</code></summary>
 
 > Automate repetitive tasks. Let machines do what they're good at.
