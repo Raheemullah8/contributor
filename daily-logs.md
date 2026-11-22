@@ -1,4 +1,11 @@
 <details>
+<summary><strong>2026-11-22</strong> at <code>2026-11-22 06:00:54</code></summary>
+
+> Document your code. Unclear code wastes more time than it saves.
+
+</details>
+
+<details>
 <summary><strong>2026-11-21</strong> at <code>2026-11-21 06:33:26</code></summary>
 
 > Automate repetitive tasks. Let machines do what they're good at.
