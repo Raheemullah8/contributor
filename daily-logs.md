@@ -1,4 +1,11 @@
 <details>
+<summary><strong>2026-11-25</strong> at <code>2026-11-25 07:53:48</code></summary>
+
+> Code reviews catch bugs and improve team knowledge sharing.
+
+</details>
+
+<details>
 <summary><strong>2026-11-24</strong> at <code>2026-11-24 09:19:47</code></summary>
 
 > Refactor regularly. Technical debt compounds like financial debt.
