@@ -1,4 +1,11 @@
 <details>
+<summary><strong>2026-11-26</strong> at <code>2026-11-26 07:44:41</code></summary>
+
+> Always write tests. Untested code is legacy code by default.
+
+</details>
+
+<details>
 <summary><strong>2026-11-25</strong> at <code>2026-11-25 07:53:48</code></summary>
 
 > Code reviews catch bugs and improve team knowledge sharing.
