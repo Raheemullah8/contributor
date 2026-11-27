@@ -1,4 +1,11 @@
 <details>
+<summary><strong>2026-11-27</strong> at <code>2026-11-27 07:44:06</code></summary>
+
+> Document your code. Unclear code wastes more time than it saves.
+
+</details>
+
+<details>
 <summary><strong>2026-11-26</strong> at <code>2026-11-26 07:44:41</code></summary>
 
 > Always write tests. Untested code is legacy code by default.
